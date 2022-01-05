@@ -26,6 +26,11 @@
     background: rgba(0, 0, 0, 0.1);
 }
 
+.item:hover {
+    background: white;
+    cursor: pointer;
+}
+
 .item .count {
     width: 40px;
     opacity: 0.4;
