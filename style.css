@@ -9,6 +9,10 @@
     display: none !important;
 }
 
+.watched {
+    background: white !important;
+}
+
 .app {
     width: 50%;
     padding: 40px 20px;

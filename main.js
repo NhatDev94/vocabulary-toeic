@@ -37,12 +37,15 @@ btn.addEventListener('click', async () => {
         },
         body: JSON.stringify(b)
     })
-    window.location.href = 'https://nhatdev94.github.io/vocabulary-toeic/'
+    window.location.href = 'https://nhatdev94.github.io/vocabulary-toeic/l'
 })
 
 async function hideVoca(i) {
-    count++
     vocabulary[i].checked = true
+}
+
+async function watched(i) {
+    vocabulary[i].watched = true
 }
 
 async function run() {
@@ -58,6 +61,8 @@ async function run() {
         let item = document.createElement('div')
         item.classList.add('item')
         e.checked && item.classList.add('hide')
+        e.watched && item.classList.add('watched')
+        item.addEventListener('mouseover', () => watched(index))
 
 
         let content = '<p class="count">' + index + '</p>'
