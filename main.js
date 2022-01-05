@@ -37,7 +37,7 @@ btn.addEventListener('click', async () => {
         },
         body: JSON.stringify(b)
     })
-    window.location.href = 'https://nhatdev94.github.io/vocabulary-toeic/l'
+    window.location.href = 'https://nhatdev94.github.io/vocabulary-toeic'
 })
 
 async function hideVoca(i) {
