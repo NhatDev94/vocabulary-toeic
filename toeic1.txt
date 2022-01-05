@@ -1,0 +1,3014 @@
+[
+    {
+        "voca": "new",
+        "mean": "mới"
+    },
+    {
+        "voca": "company",
+        "mean": "công ty"
+    },
+    {
+        "voca": "Mr.",
+        "mean": "ông"
+    },
+    {
+        "voca": "year",
+        "mean": "năm"
+    },
+    {
+        "voca": "service",
+        "mean": "dịch vụ"
+    },
+    {
+        "voca": "please",
+        "mean": "vui lòng"
+    },
+    {
+        "voca": "customer",
+        "mean": "khách hàng"
+    },
+    {
+        "voca": "work",
+        "mean": "làm việc / công việc"
+    },
+    {
+        "voca": "email",
+        "mean": "thư điện tử"
+    },
+    {
+        "voca": "Ms.",
+        "mean": "bà"
+    },
+    {
+        "voca": "make",
+        "mean": "làm"
+    },
+    {
+        "voca": "more",
+        "mean": "thêm / nhiều hơn"
+    },
+    {
+        "voca": "time",
+        "mean": "thời gian / thời điểm"
+    },
+    {
+        "voca": "product",
+        "mean": "sản phẩm"
+    },
+    {
+        "voca": "business",
+        "mean": "kinh doanh / doanh nghiệp"
+    },
+    {
+        "voca": "day",
+        "mean": "ngày"
+    },
+    {
+        "voca": "employee",
+        "mean": "nhân viên"
+    },
+    {
+        "voca": "use",
+        "mean": "sử dụng"
+    },
+    {
+        "voca": "information",
+        "mean": "thông tin"
+    },
+    {
+        "voca": "member",
+        "mean": "thành viên"
+    },
+    {
+        "voca": "order",
+        "mean": "đơn hàng / đặt hàng"
+    },
+    {
+        "voca": "letter",
+        "mean": "lá thư"
+    },
+    {
+        "voca": "provide",
+        "mean": "cung cấp"
+    },
+    {
+        "voca": "date",
+        "mean": "ngày"
+    },
+    {
+        "voca": "receive",
+        "mean": "nhận"
+    },
+    {
+        "voca": "office",
+        "mean": "văn phòng"
+    },
+    {
+        "voca": "manage",
+        "mean": "quản lý"
+    },
+    {
+        "voca": "month",
+        "mean": "tháng"
+    },
+    {
+        "voca": "most",
+        "mean": "nhiều nhất / hầu hết"
+    },
+    {
+        "voca": "also",
+        "mean": "cũng"
+    },
+    {
+        "voca": "hotel",
+        "mean": "khách sạn"
+    },
+    {
+        "voca": "include",
+        "mean": "bao gồm"
+    },
+    {
+        "voca": "than",
+        "mean": "so với"
+    },
+    {
+        "voca": "only",
+        "mean": "chỉ"
+    },
+    {
+        "voca": "price",
+        "mean": "giá"
+    },
+    {
+        "voca": "purchase",
+        "mean": "mua"
+    },
+    {
+        "voca": "other",
+        "mean": "khác"
+    },
+    {
+        "voca": "week",
+        "mean": "tuần"
+    },
+    {
+        "voca": "thank",
+        "mean": "cám ơn"
+    },
+    {
+        "voca": "send",
+        "mean": "gửi"
+    },
+    {
+        "voca": "plan",
+        "mean": "kế hoạch / lên kế hoạch"
+    },
+    {
+        "voca": "open",
+        "mean": "mở"
+    },
+    {
+        "voca": "contact",
+        "mean": "liên lạc"
+    },
+    {
+        "voca": "change",
+        "mean": "thay đổi"
+    },
+    {
+        "voca": "add",
+        "mean": "thêm"
+    },
+    {
+        "voca": "store",
+        "mean": "cửa hàng"
+    },
+    {
+        "voca": "article",
+        "mean": "bài báo"
+    },
+    {
+        "voca": "call",
+        "mean": "gọi"
+    },
+    {
+        "voca": "schedule",
+        "mean": "lịch trình / lên lịch"
+    },
+    {
+        "voca": "event",
+        "mean": "sự kiện"
+    },
+    {
+        "voca": "first",
+        "mean": "đầu tiên / thứ nhất"
+    },
+    {
+        "voca": "center",
+        "mean": "trung tâm"
+    },
+    {
+        "voca": "free",
+        "mean": "miễn phí / tự do"
+    },
+    {
+        "voca": "ask",
+        "mean": "hỏi / yêu cầu"
+    },
+    {
+        "voca": "like",
+        "mean": "thích"
+    },
+    {
+        "voca": "next",
+        "mean": "tiếp theo"
+    },
+    {
+        "voca": "request",
+        "mean": "yêu cầu"
+    },
+    {
+        "voca": "job",
+        "mean": "việc làm / công việc"
+    },
+    {
+        "voca": "before",
+        "mean": "trước"
+    },
+    {
+        "voca": "department",
+        "mean": "bộ phận"
+    },
+    {
+        "voca": "after",
+        "mean": "sau"
+    },
+    {
+        "voca": "design",
+        "mean": "thiết kế"
+    },
+    {
+        "voca": "city",
+        "mean": "thành phố"
+    },
+    {
+        "voca": "number",
+        "mean": "số / số lượng"
+    },
+    {
+        "voca": "high",
+        "mean": "cao"
+    },
+    {
+        "voca": "need",
+        "mean": "cần"
+    },
+    {
+        "voca": "conference",
+        "mean": "hội nghị"
+    },
+    {
+        "voca": "know",
+        "mean": "biết"
+    },
+    {
+        "voca": "meeting",
+        "mean": "cuộc họp"
+    },
+    {
+        "voca": "give",
+        "mean": "đưa / đưa ra"
+    },
+    {
+        "voca": "special",
+        "mean": "đặc biệt"
+    },
+    {
+        "voca": "staff",
+        "mean": "nhân viên"
+    },
+    {
+        "voca": "room",
+        "mean": "phòng"
+    },
+    {
+        "voca": "announce",
+        "mean": "thông báo"
+    },
+    {
+        "voca": "website",
+        "mean": "trang web"
+    },
+    {
+        "voca": "write",
+        "mean": "viết"
+    },
+    {
+        "voca": "visit",
+        "mean": "ghé thăm / chuyến đi"
+    },
+    {
+        "voca": "hour",
+        "mean": "giờ"
+    },
+    {
+        "voca": "require",
+        "mean": "yêu cầu"
+    },
+    {
+        "voca": "help",
+        "mean": "giúp đỡ"
+    },
+    {
+        "voca": "because",
+        "mean": "bởi vì"
+    },
+    {
+        "voca": "increase",
+        "mean": "tăng"
+    },
+    {
+        "voca": "people",
+        "mean": "người"
+    },
+    {
+        "voca": "find",
+        "mean": "tìm thấy / cảm thấy"
+    },
+    {
+        "voca": "complete",
+        "mean": "hoàn thành / hoàn chỉnh"
+    },
+    {
+        "voca": "attend",
+        "mean": "tham dự"
+    },
+    {
+        "voca": "program",
+        "mean": "chương trình"
+    },
+    {
+        "voca": "book",
+        "mean": "sách"
+    },
+    {
+        "voca": "according to",
+        "mean": "theo như"
+    },
+    {
+        "voca": "many",
+        "mean": "nhiều"
+    },
+    {
+        "voca": "food",
+        "mean": "đồ ăn / thực phẩm"
+    },
+    {
+        "voca": "travel",
+        "mean": "đi lại / du lịch"
+    },
+    {
+        "voca": "last",
+        "mean": "vừa qua / trước"
+    },
+    {
+        "voca": "current",
+        "mean": "hiện tại"
+    },
+    {
+        "voca": "project",
+        "mean": "dự án"
+    },
+    {
+        "voca": "report",
+        "mean": "báo cáo"
+    },
+    {
+        "voca": "form",
+        "mean": "mẫu (đơn)"
+    },
+    {
+        "voca": "follow",
+        "mean": "theo sau / làm theo"
+    },
+    {
+        "voca": "area",
+        "mean": "khu vực"
+    },
+    {
+        "voca": "during",
+        "mean": "trong suốt"
+    },
+    {
+        "voca": "experience",
+        "mean": "kinh nghiệm"
+    },
+    {
+        "voca": "notice",
+        "mean": "chú ý / thông báo"
+    },
+    {
+        "voca": "team",
+        "mean": "đội / nhóm"
+    },
+    {
+        "voca": "pay",
+        "mean": "chi trả"
+    },
+    {
+        "voca": "cost (n)",
+        "mean": "chi phí"
+    },
+    {
+        "voca": "march",
+        "mean": "tháng Ba"
+    },
+    {
+        "voca": "computer",
+        "mean": "máy tính"
+    },
+    {
+        "voca": "come",
+        "mean": "đến"
+    },
+    {
+        "voca": "very",
+        "mean": "rất"
+    },
+    {
+        "voca": "june",
+        "mean": "tháng Sáu"
+    },
+    {
+        "voca": "see",
+        "mean": "xem / thấy"
+    },
+    {
+        "voca": "problem",
+        "mean": "vấn đề"
+    },
+    {
+        "voca": "deliver",
+        "mean": "giao (hàng...)"
+    },
+    {
+        "voca": "each",
+        "mean": "mỗi"
+    },
+    {
+        "voca": "want",
+        "mean": "muốn"
+    },
+    {
+        "voca": "start",
+        "mean": "bắt đầu"
+    },
+    {
+        "voca": "submit",
+        "mean": "nộp"
+    },
+    {
+        "voca": "large",
+        "mean": "lớn"
+    },
+    {
+        "voca": "home",
+        "mean": "nhà"
+    },
+    {
+        "voca": "say",
+        "mean": "nói"
+    },
+    {
+        "voca": "hope",
+        "mean": "hy vọng"
+    },
+    {
+        "voca": "there is",
+        "mean": "có"
+    },
+    {
+        "voca": "where",
+        "mean": "nơi nào / nơi mà"
+    },
+    {
+        "voca": "card",
+        "mean": "thẻ"
+    },
+    {
+        "voca": "register",
+        "mean": "đăng ký"
+    },
+    {
+        "voca": "expect",
+        "mean": "trông đợi"
+    },
+    {
+        "voca": "able",
+        "mean": "có thể"
+    },
+    {
+        "voca": "best",
+        "mean": "tốt nhất"
+    },
+    {
+        "voca": "ticket",
+        "mean": "vé"
+    },
+    {
+        "voca": "develop",
+        "mean": "phát triển"
+    },
+    {
+        "voca": "now",
+        "mean": "bây giờ"
+    },
+    {
+        "voca": "august",
+        "mean": "tháng Tám"
+    },
+    {
+        "voca": "director",
+        "mean": "giám đốc"
+    },
+    {
+        "voca": "april",
+        "mean": "tháng Tư"
+    },
+    {
+        "voca": "get",
+        "mean": "có được / lấy"
+    },
+    {
+        "voca": "name",
+        "mean": "tên"
+    },
+    {
+        "voca": "question",
+        "mean": "câu hỏi"
+    },
+    {
+        "voca": "july",
+        "mean": "tháng Bảy"
+    },
+    {
+        "voca": "much",
+        "mean": "nhiều"
+    },
+    {
+        "voca": "take",
+        "mean": "lấy / mang"
+    },
+    {
+        "voca": "ship",
+        "mean": "giao (hàng)"
+    },
+    {
+        "voca": "begin",
+        "mean": "bắt đầu"
+    },
+    {
+        "voca": "research",
+        "mean": "nghiên cứu"
+    },
+    {
+        "voca": "advertise",
+        "mean": "quảng cáo"
+    },
+    {
+        "voca": "charge",
+        "mean": "phí / tính phí"
+    },
+    {
+        "voca": "long",
+        "mean": "dài / lâu"
+    },
+    {
+        "voca": "return",
+        "mean": "trả lại / trở lại"
+    },
+    {
+        "voca": "hold",
+        "mean": "tổ chức"
+    },
+    {
+        "voca": "while",
+        "mean": "trong khi"
+    },
+    {
+        "voca": "review",
+        "mean": "xem lại / đánh giá"
+    },
+    {
+        "voca": "every",
+        "mean": "mỗi"
+    },
+    {
+        "voca": "mention",
+        "mean": "đề cập"
+    },
+    {
+        "voca": "system",
+        "mean": "hệ thống"
+    },
+    {
+        "voca": "class",
+        "mean": "lớp học"
+    },
+    {
+        "voca": "into",
+        "mean": "vào trong"
+    },
+    {
+        "voca": "training",
+        "mean": "đào tạo / huấn luyện"
+    },
+    {
+        "voca": "group",
+        "mean": "nhóm"
+    },
+    {
+        "voca": "restaurant",
+        "mean": "nhà hàng"
+    },
+    {
+        "voca": "health",
+        "mean": "sức khỏe"
+    },
+    {
+        "voca": "full",
+        "mean": "đầy đủ / toàn bộ"
+    },
+    {
+        "voca": "main",
+        "mean": "chính / chủ yếu"
+    },
+    {
+        "voca": "part",
+        "mean": "phần"
+    },
+    {
+        "voca": "read",
+        "mean": "đọc"
+    },
+    {
+        "voca": "construction",
+        "mean": "xây dựng"
+    },
+    {
+        "voca": "international",
+        "mean": "quốc tế"
+    },
+    {
+        "voca": "success",
+        "mean": "sự thành công"
+    },
+    {
+        "voca": "contract",
+        "mean": "hợp đồng"
+    },
+    {
+        "voca": "fee",
+        "mean": "khoản phí"
+    },
+    {
+        "voca": "quality",
+        "mean": "chất lượng"
+    },
+    {
+        "voca": "client",
+        "mean": "khách hàng"
+    },
+    {
+        "voca": "university",
+        "mean": "trường đại học"
+    },
+    {
+        "voca": "close",
+        "mean": "gần / gần gũi"
+    },
+    {
+        "voca": "within",
+        "mean": "trong vòng"
+    },
+    {
+        "voca": "repair",
+        "mean": "sửa chữa"
+    },
+    {
+        "voca": "september",
+        "mean": "tháng Chín"
+    },
+    {
+        "voca": "end",
+        "mean": "kết thúc / cuối"
+    },
+    {
+        "voca": "participate",
+        "mean": "tham gia"
+    },
+    {
+        "voca": "interview",
+        "mean": "buổi phỏng vấn"
+    },
+    {
+        "voca": "building",
+        "mean": "tòa nhà"
+    },
+    {
+        "voca": "however",
+        "mean": "tuy nhiên"
+    },
+    {
+        "voca": "student",
+        "mean": "sinh viên"
+    },
+    {
+        "voca": "list",
+        "mean": "danh sách / liệt kê"
+    },
+    {
+        "voca": "publish",
+        "mean": "xuất bản"
+    },
+    {
+        "voca": "result",
+        "mean": "kết quả"
+    },
+    {
+        "voca": "arrive",
+        "mean": "đến"
+    },
+    {
+        "voca": "both",
+        "mean": "cả hai"
+    },
+    {
+        "voca": "confirm",
+        "mean": "xác nhận"
+    },
+    {
+        "voca": "until",
+        "mean": "cho đến khi"
+    },
+    {
+        "voca": "inform",
+        "mean": "thông báo cho"
+    },
+    {
+        "voca": "technology",
+        "mean": "công nghệ"
+    },
+    {
+        "voca": "monday",
+        "mean": "thứ Hai"
+    },
+    {
+        "voca": "discuss",
+        "mean": "bàn bạc / thảo luận"
+    },
+    {
+        "voca": "just",
+        "mean": "chỉ / vừa mới"
+    },
+    {
+        "voca": "october",
+        "mean": "tháng Mười"
+    },
+    {
+        "voca": "good",
+        "mean": "tốt"
+    },
+    {
+        "voca": "car",
+        "mean": "xe hơi"
+    },
+    {
+        "voca": "let",
+        "mean": "cho / để"
+    },
+    {
+        "voca": "street",
+        "mean": "đường"
+    },
+    {
+        "voca": "hire",
+        "mean": "thuê"
+    },
+    {
+        "voca": "copy",
+        "mean": "bản sao / sao chép"
+    },
+    {
+        "voca": "few",
+        "mean": "ít / vài"
+    },
+    {
+        "voca": "important",
+        "mean": "quan trọng"
+    },
+    {
+        "voca": "small",
+        "mean": "nhỏ"
+    },
+    {
+        "voca": "magazine",
+        "mean": "tạp chí"
+    },
+    {
+        "voca": "art",
+        "mean": "nghệ thuật"
+    },
+    {
+        "voca": "address",
+        "mean": "địa chỉ"
+    },
+    {
+        "voca": "sell",
+        "mean": "bán"
+    },
+    {
+        "voca": "consider",
+        "mean": "xem xét"
+    },
+    {
+        "voca": "meet",
+        "mean": "gặp"
+    },
+    {
+        "voca": "water",
+        "mean": "nước"
+    },
+    {
+        "voca": "world",
+        "mean": "thế giới"
+    },
+    {
+        "voca": "apply",
+        "mean": "nộp đơn xin"
+    },
+    {
+        "voca": "equipment",
+        "mean": "thiết bị"
+    },
+    {
+        "voca": "trip",
+        "mean": "chuyến đi"
+    },
+    {
+        "voca": "account",
+        "mean": "tài khoản"
+    },
+    {
+        "voca": "great",
+        "mean": "tuyệt vời / rất lớn"
+    },
+    {
+        "voca": "opportunity",
+        "mean": "cơ hội"
+    },
+    {
+        "voca": "guest",
+        "mean": "khách"
+    },
+    {
+        "voca": "meaning",
+        "mean": "ý nghĩa"
+    },
+    {
+        "voca": "note",
+        "mean": "chú ý / ghi chú"
+    },
+    {
+        "voca": "photograph",
+        "mean": "bức ảnh"
+    },
+    {
+        "voca": "skill",
+        "mean": "kỹ năng"
+    },
+    {
+        "voca": "benefit",
+        "mean": "lợi ích / có lợi"
+    },
+    {
+        "voca": "rent",
+        "mean": "thuê"
+    },
+    {
+        "voca": "flight",
+        "mean": "chuyến bay"
+    },
+    {
+        "voca": "president",
+        "mean": "chủ tịch"
+    },
+    {
+        "voca": "airport",
+        "mean": "sân bay"
+    },
+    {
+        "voca": "accept",
+        "mean": "chấp nhận"
+    },
+    {
+        "voca": "january",
+        "mean": "tháng Một"
+    },
+    {
+        "voca": "improve",
+        "mean": "cải thiện"
+    },
+    {
+        "voca": "february",
+        "mean": "tháng Hai"
+    },
+    {
+        "voca": "allow",
+        "mean": "cho phép"
+    },
+    {
+        "voca": "support",
+        "mean": "hỗ trợ / ủng hộ"
+    },
+    {
+        "voca": "bring",
+        "mean": "mang"
+    },
+    {
+        "voca": "friday",
+        "mean": "thứ Sáu"
+    },
+    {
+        "voca": "become",
+        "mean": "trở nên"
+    },
+    {
+        "voca": "policy",
+        "mean": "chính sách"
+    },
+    {
+        "voca": "convenient",
+        "mean": "tiện lợi"
+    },
+    {
+        "voca": "museum",
+        "mean": "bảo tàng"
+    },
+    {
+        "voca": "december",
+        "mean": "tháng Mười Hai"
+    },
+    {
+        "voca": "tour",
+        "mean": "chuyến tham quan / du lịch"
+    },
+    {
+        "voca": "sure",
+        "mean": "chắc chắn / đảm bảo"
+    },
+    {
+        "voca": "choose",
+        "mean": "chọn"
+    },
+    {
+        "voca": "environment",
+        "mean": "môi trường"
+    },
+    {
+        "voca": "win",
+        "mean": "chiến thắng"
+    },
+    {
+        "voca": "november",
+        "mean": "tháng Mười Một"
+    },
+    {
+        "voca": "clean",
+        "mean": "sạch / làm sạch"
+    },
+    {
+        "voca": "buy",
+        "mean": "mua"
+    },
+    {
+        "voca": "between",
+        "mean": "giữa"
+    },
+    {
+        "voca": "park",
+        "mean": "công viên"
+    },
+    {
+        "voca": "bank",
+        "mean": "ngân hàng"
+    },
+    {
+        "voca": "different",
+        "mean": "khác"
+    },
+    {
+        "voca": "look forward",
+        "mean": "trông đợi"
+    },
+    {
+        "voca": "space",
+        "mean": "không gian / chỗ"
+    },
+    {
+        "voca": "build",
+        "mean": "xây dựng"
+    },
+    {
+        "voca": "in order to",
+        "mean": "để (làm gì đó)"
+    },
+    {
+        "voca": "electronic",
+        "mean": "điện tử"
+    },
+    {
+        "voca": "saturday",
+        "mean": "thứ Bảy"
+    },
+    {
+        "voca": "country",
+        "mean": "đất nước"
+    },
+    {
+        "voca": "personal",
+        "mean": "cá nhân"
+    },
+    {
+        "voca": "reduce",
+        "mean": "giảm"
+    },
+    {
+        "voca": "money",
+        "mean": "tiền"
+    },
+    {
+        "voca": "create",
+        "mean": "tạo ra"
+    },
+    {
+        "voca": "final",
+        "mean": "cuối cùng"
+    },
+    {
+        "voca": "introduce",
+        "mean": "giới thiệu"
+    },
+    {
+        "voca": "percent",
+        "mean": "phần trăm"
+    },
+    {
+        "voca": "expand",
+        "mean": "mở rộng"
+    },
+    {
+        "voca": "worker",
+        "mean": "công nhân / nhân viên"
+    },
+    {
+        "voca": "future",
+        "mean": "tương lai"
+    },
+    {
+        "voca": "again",
+        "mean": "một lần nữa / lại"
+    },
+    {
+        "voca": "serve",
+        "mean": "phục vụ"
+    },
+    {
+        "voca": "move",
+        "mean": "di chuyển / di dời"
+    },
+    {
+        "voca": "true",
+        "mean": "đúng / thật sự"
+    },
+    {
+        "voca": "family",
+        "mean": "gia đình"
+    },
+    {
+        "voca": "past",
+        "mean": "qua / quá khứ"
+    },
+    {
+        "voca": "professional",
+        "mean": "chuyên nghiệp / người chuyên nghiệp"
+    },
+    {
+        "voca": "low",
+        "mean": "thấp"
+    },
+    {
+        "voca": "parking",
+        "mean": "đỗ xe"
+    },
+    {
+        "voca": "show",
+        "mean": "cho thấy"
+    },
+    {
+        "voca": "early",
+        "mean": "sớm"
+    },
+    {
+        "voca": "enjoy",
+        "mean": "tận hưởng / thích"
+    },
+    {
+        "voca": "print",
+        "mean": "in"
+    },
+    {
+        "voca": "although",
+        "mean": "mặc dù"
+    },
+    {
+        "voca": "today",
+        "mean": "hôm nay"
+    },
+    {
+        "voca": "seminar",
+        "mean": "hội thảo"
+    },
+    {
+        "voca": "document",
+        "mean": "tài liệu"
+    },
+    {
+        "voca": "regular",
+        "mean": "thường xuyên / thường"
+    },
+    {
+        "voca": "place",
+        "mean": "nơi / chỗ"
+    },
+    {
+        "voca": "safe",
+        "mean": "an toàn"
+    },
+    {
+        "voca": "soon",
+        "mean": "sớm"
+    },
+    {
+        "voca": "children",
+        "mean": "trẻ em"
+    },
+    {
+        "voca": "back",
+        "mean": "lại / trở lại"
+    },
+    {
+        "voca": "school",
+        "mean": "trường học"
+    },
+    {
+        "voca": "think",
+        "mean": "nghĩ"
+    },
+    {
+        "voca": "invest",
+        "mean": "đầu tư"
+    },
+    {
+        "voca": "limit",
+        "mean": "giới hạn"
+    },
+    {
+        "voca": "house",
+        "mean": "nhà"
+    },
+    {
+        "voca": "over",
+        "mean": "hơn"
+    },
+    {
+        "voca": "care",
+        "mean": "chăm sóc / quan tâm"
+    },
+    {
+        "voca": "minute",
+        "mean": "phút"
+    },
+    {
+        "voca": "keep",
+        "mean": "giữ"
+    },
+    {
+        "voca": "sales",
+        "mean": "doanh thu"
+    },
+    {
+        "voca": "since",
+        "mean": "từ khi"
+    },
+    {
+        "voca": "compete",
+        "mean": "cạnh tranh"
+    },
+    {
+        "voca": "total",
+        "mean": "tổng cộng"
+    },
+    {
+        "voca": "near",
+        "mean": "gần"
+    },
+    {
+        "voca": "produce",
+        "mean": "sản xuất / tạo ra"
+    },
+    {
+        "voca": "around",
+        "mean": "xung quanh / khoảng"
+    },
+    {
+        "voca": "close",
+        "mean": "đóng"
+    },
+    {
+        "voca": "bill",
+        "mean": "hóa đơn"
+    },
+    {
+        "voca": "attach",
+        "mean": "đính kèm"
+    },
+    {
+        "voca": "prepare",
+        "mean": "chuẩn bị"
+    },
+    {
+        "voca": "software",
+        "mean": "phần mềm"
+    },
+    {
+        "voca": "human",
+        "mean": "người"
+    },
+    {
+        "voca": "encourage",
+        "mean": "khuyến khích"
+    },
+    {
+        "voca": "hear",
+        "mean": "nghe"
+    },
+    {
+        "voca": "decide",
+        "mean": "quyết định (v)"
+    },
+    {
+        "voca": "join",
+        "mean": "gia nhập"
+    },
+    {
+        "voca": "there",
+        "mean": "ở đó"
+    },
+    {
+        "voca": "select",
+        "mean": "chọn"
+    },
+    {
+        "voca": "history",
+        "mean": "lịch sử"
+    },
+    {
+        "voca": "summer",
+        "mean": "mùa hè"
+    },
+    {
+        "voca": "stay",
+        "mean": "ở"
+    },
+    {
+        "voca": "check",
+        "mean": "kiểm tra / xem"
+    },
+    {
+        "voca": "ago",
+        "mean": "trước đây"
+    },
+    {
+        "voca": "same",
+        "mean": "cùng / giống nhau"
+    },
+    {
+        "voca": "learn",
+        "mean": "học"
+    },
+    {
+        "voca": "continue",
+        "mean": "tiếp tục"
+    },
+    {
+        "voca": "still",
+        "mean": "vẫn"
+    },
+    {
+        "voca": "telephone",
+        "mean": "điện thoại"
+    },
+    {
+        "voca": "nation",
+        "mean": "quốc gia"
+    },
+    {
+        "voca": "arrange",
+        "mean": "sắp xếp"
+    },
+    {
+        "voca": "news",
+        "mean": "tin tức"
+    },
+    {
+        "voca": "bus",
+        "mean": "xe buýt"
+    },
+    {
+        "voca": "under",
+        "mean": "dưới"
+    },
+    {
+        "voca": "page",
+        "mean": "trang"
+    },
+    {
+        "voca": "invite",
+        "mean": "mời"
+    },
+    {
+        "voca": "thursday",
+        "mean": "thứ Năm"
+    },
+    {
+        "voca": "feel",
+        "mean": "cảm thấy"
+    },
+    {
+        "voca": "message",
+        "mean": "tin nhắn"
+    },
+    {
+        "voca": "night",
+        "mean": "đêm"
+    },
+    {
+        "voca": "second",
+        "mean": "thứ hai"
+    },
+    {
+        "voca": "theater",
+        "mean": "nhà hát / rạp phim"
+    },
+    {
+        "voca": "tell",
+        "mean": "nói"
+    },
+    {
+        "voca": "old",
+        "mean": "cũ / lớn tuổi"
+    },
+    {
+        "voca": "necessary",
+        "mean": "cần thiết"
+    },
+    {
+        "voca": "amount",
+        "mean": "số lượng / khoản (tiền...)"
+    },
+    {
+        "voca": "presentation",
+        "mean": "buổi thuyến trình"
+    },
+    {
+        "voca": "library",
+        "mean": "thư viện"
+    },
+    {
+        "voca": "government",
+        "mean": "chính phủ"
+    },
+    {
+        "voca": "club",
+        "mean": "câu lạc bộ"
+    },
+    {
+        "voca": "road",
+        "mean": "đường"
+    },
+    {
+        "voca": "economy",
+        "mean": "kinh tế"
+    },
+    {
+        "voca": "way",
+        "mean": "cách"
+    },
+    {
+        "voca": "floor",
+        "mean": "tầng / sàn nhà"
+    },
+    {
+        "voca": "monthly",
+        "mean": "hàng tháng"
+    },
+    {
+        "voca": "sunday",
+        "mean": "Chủ Nhật"
+    },
+    {
+        "voca": "here",
+        "mean": "ở đây"
+    },
+    {
+        "voca": "organization",
+        "mean": "tổ chức"
+    },
+    {
+        "voca": "better",
+        "mean": "tốt hơn"
+    },
+    {
+        "voca": "shop",
+        "mean": "cửa hàng"
+    },
+    {
+        "voca": "shopping",
+        "mean": "mua sắm"
+    },
+    {
+        "voca": "level",
+        "mean": "mức độ / cấp độ"
+    },
+    {
+        "voca": "excellent",
+        "mean": "tuyệt vời"
+    },
+    {
+        "voca": "vehicle",
+        "mean": "xe"
+    },
+    {
+        "voca": "idea",
+        "mean": "ý tưởng"
+    },
+    {
+        "voca": "less",
+        "mean": "ít hơn"
+    },
+    {
+        "voca": "later",
+        "mean": "sau đó / trễ hơn"
+    },
+    {
+        "voca": "always",
+        "mean": "luôn luôn"
+    },
+    {
+        "voca": "machine",
+        "mean": "máy"
+    },
+    {
+        "voca": "describe",
+        "mean": "mô tả"
+    },
+    {
+        "voca": "morning",
+        "mean": "buổi sáng"
+    },
+    {
+        "voca": "immediately",
+        "mean": "ngay lập tức"
+    },
+    {
+        "voca": "install",
+        "mean": "lắp đặt / cài đặt"
+    },
+    {
+        "voca": "live",
+        "mean": "sống"
+    },
+    {
+        "voca": "enter",
+        "mean": "đi vào / đưa vào"
+    },
+    {
+        "voca": "without",
+        "mean": "không có"
+    },
+    {
+        "voca": "train",
+        "mean": "xe lửa"
+    },
+    {
+        "voca": "film",
+        "mean": "phim"
+    },
+    {
+        "voca": "coupon",
+        "mean": "phiếu giảm giá"
+    },
+    {
+        "voca": "size",
+        "mean": "kích thước / kích cỡ"
+    },
+    {
+        "voca": "accounting",
+        "mean": "kế toán"
+    },
+    {
+        "voca": "meal",
+        "mean": "bữa ăn"
+    },
+    {
+        "voca": "try",
+        "mean": "cố gắng / thử"
+    },
+    {
+        "voca": "cancel",
+        "mean": "hủy"
+    },
+    {
+        "voca": "drive",
+        "mean": "lái xe"
+    },
+    {
+        "voca": "vacation",
+        "mean": "kỳ nghỉ"
+    },
+    {
+        "voca": "complain",
+        "mean": "phàn nàn"
+    },
+    {
+        "voca": "reason",
+        "mean": "lí do"
+    },
+    {
+        "voca": "gift",
+        "mean": "quà tặng"
+    },
+    {
+        "voca": "sign",
+        "mean": "ký"
+    },
+    {
+        "voca": "spend",
+        "mean": "chi tiêu / dành (thời gian)"
+    },
+    {
+        "voca": "speak",
+        "mean": "nói / phát biểu"
+    },
+    {
+        "voca": "factory",
+        "mean": "nhà máy"
+    },
+    {
+        "voca": "welcome",
+        "mean": "chào đón"
+    },
+    {
+        "voca": "season",
+        "mean": "mùa"
+    },
+    {
+        "voca": "top",
+        "mean": "hàng đầu / trên cùng"
+    },
+    {
+        "voca": "appointment",
+        "mean": "cuộc hẹn"
+    },
+    {
+        "voca": "run",
+        "mean": "chạy"
+    },
+    {
+        "voca": "music",
+        "mean": "âm nhạc"
+    },
+    {
+        "voca": "air",
+        "mean": "không khí / hàng không"
+    },
+    {
+        "voca": "wednesday",
+        "mean": "thứ Tư"
+    },
+    {
+        "voca": "quickly",
+        "mean": "nhanh chóng"
+    },
+    {
+        "voca": "station",
+        "mean": "trạm / đài"
+    },
+    {
+        "voca": "attract",
+        "mean": "thu hút"
+    },
+    {
+        "voca": "weekend",
+        "mean": "cuối tuần"
+    },
+    {
+        "voca": "like",
+        "mean": "giống"
+    },
+    {
+        "voca": "well",
+        "mean": "tốt"
+    },
+    {
+        "voca": "activity",
+        "mean": "hoạt động"
+    },
+    {
+        "voca": "organize",
+        "mean": "tổ chức / sắp xếp"
+    },
+    {
+        "voca": "look for",
+        "mean": "tìm kiếm"
+    },
+    {
+        "voca": "tuesday",
+        "mean": "thứ Ba"
+    },
+    {
+        "voca": "then",
+        "mean": "sau đó"
+    },
+    {
+        "voca": "might",
+        "mean": "có thể"
+    },
+    {
+        "voca": "explain",
+        "mean": "giải thích"
+    },
+    {
+        "voca": "visitor",
+        "mean": "khách / du khách"
+    },
+    {
+        "voca": "display",
+        "mean": "trưng bày"
+    },
+    {
+        "voca": "believe",
+        "mean": "tin"
+    },
+    {
+        "voca": "delay",
+        "mean": "trì hoãn"
+    },
+    {
+        "voca": "wide",
+        "mean": "rộng"
+    },
+    {
+        "voca": "paper",
+        "mean": "giấy"
+    },
+    {
+        "voca": "strong",
+        "mean": "mạnh"
+    },
+    {
+        "voca": "test",
+        "mean": "kiểm tra"
+    },
+    {
+        "voca": "web",
+        "mean": "mạng"
+    },
+    {
+        "voca": "desk",
+        "mean": "cái bàn"
+    },
+    {
+        "voca": "life",
+        "mean": "cuộc sống / cuộc đời"
+    },
+    {
+        "voca": "leave",
+        "mean": "rời đi / rời khỏi"
+    },
+    {
+        "voca": "comment",
+        "mean": "lời bình"
+    },
+    {
+        "voca": "teach",
+        "mean": "dạy"
+    },
+    {
+        "voca": "book",
+        "mean": "đặt (phòng, vé...)"
+    },
+    {
+        "voca": "course",
+        "mean": "khóa học"
+    },
+    {
+        "voca": "lost",
+        "mean": "mất"
+    },
+    {
+        "voca": "late",
+        "mean": "trễ"
+    },
+    {
+        "voca": "decision",
+        "mean": "quyết định (n)"
+    },
+    {
+        "voca": "retire",
+        "mean": "về hưu"
+    },
+    {
+        "voca": "festival",
+        "mean": "lễ hội"
+    },
+    {
+        "voca": "tourist",
+        "mean": "khách du lịch"
+    },
+    {
+        "voca": "drink",
+        "mean": "uống / đồ uống"
+    },
+    {
+        "voca": "party",
+        "mean": "bữa tiệc"
+    },
+    {
+        "voca": "relations",
+        "mean": "quan hệ"
+    },
+    {
+        "voca": "America",
+        "mean": "nước Mỹ"
+    },
+    {
+        "voca": "someone",
+        "mean": "ai đó"
+    },
+    {
+        "voca": "garden",
+        "mean": "vườn"
+    },
+    {
+        "voca": "volunteer",
+        "mean": "người tình nguyện"
+    },
+    {
+        "voca": "person",
+        "mean": "người"
+    },
+    {
+        "voca": "responsible",
+        "mean": "chịu trách nhiệm"
+    },
+    {
+        "voca": "sport",
+        "mean": "thể thao"
+    },
+    {
+        "voca": "hospital",
+        "mean": "bệnh viện"
+    },
+    {
+        "voca": "happen",
+        "mean": "xảy ra"
+    },
+    {
+        "voca": "wish",
+        "mean": "muốn"
+    },
+    {
+        "voca": "down",
+        "mean": "xuống"
+    },
+    {
+        "voca": "too",
+        "mean": "quá"
+    },
+    {
+        "voca": "million",
+        "mean": "triệu"
+    },
+    {
+        "voca": "camera",
+        "mean": "máy ảnh / máy quay phim"
+    },
+    {
+        "voca": "Asia",
+        "mean": "châu Á"
+    },
+    {
+        "voca": "often",
+        "mean": "thường xuyên"
+    },
+    {
+        "voca": "answer",
+        "mean": "trả lời"
+    },
+    {
+        "voca": "demand",
+        "mean": "nhu cầu"
+    },
+    {
+        "voca": "put",
+        "mean": "đặt / để"
+    },
+    {
+        "voca": "happy",
+        "mean": "vui"
+    },
+    {
+        "voca": "front",
+        "mean": "trước"
+    },
+    {
+        "voca": "movie",
+        "mean": "bộ phim"
+    },
+    {
+        "voca": "seat",
+        "mean": "chỗ ngồi"
+    },
+    {
+        "voca": "protect",
+        "mean": "bảo vệ"
+    },
+    {
+        "voca": "difficult",
+        "mean": "khó khăn"
+    },
+    {
+        "voca": "talk",
+        "mean": "nói chuyện"
+    },
+    {
+        "voca": "kitchen",
+        "mean": "nhà bếp"
+    },
+    {
+        "voca": "lunch",
+        "mean": "bữa trưa"
+    },
+    {
+        "voca": "maintain",
+        "mean": "duy trì / bảo trì"
+    },
+    {
+        "voca": "easy",
+        "mean": "dễ dàng"
+    },
+    {
+        "voca": "away",
+        "mean": "xa"
+    },
+    {
+        "voca": "dinner",
+        "mean": "bữa tối"
+    },
+    {
+        "voca": "television / TV",
+        "mean": "truyền hình / tivi"
+    },
+    {
+        "voca": "wait",
+        "mean": "chờ"
+    },
+    {
+        "voca": "rise",
+        "mean": "tăng"
+    },
+    {
+        "voca": "avoid",
+        "mean": "tránh"
+    },
+    {
+        "voca": "understand",
+        "mean": "hiểu"
+    },
+    {
+        "voca": "color",
+        "mean": "màu sắc"
+    },
+    {
+        "voca": "deadline",
+        "mean": "hạn chót"
+    },
+    {
+        "voca": "goal",
+        "mean": "mục tiêu"
+    },
+    {
+        "voca": "post",
+        "mean": "đăng"
+    },
+    {
+        "voca": "contain",
+        "mean": "chứa đựng"
+    },
+    {
+        "voca": "agree",
+        "mean": "đồng ý"
+    },
+    {
+        "voca": "finish",
+        "mean": "hoàn thành"
+    },
+    {
+        "voca": "enough",
+        "mean": "đủ"
+    },
+    {
+        "voca": "newspaper",
+        "mean": "báo"
+    },
+    {
+        "voca": "look",
+        "mean": "nhìn"
+    },
+    {
+        "voca": "simple",
+        "mean": "đơn giản"
+    },
+    {
+        "voca": "performance",
+        "mean": "buổi biểu diễn"
+    },
+    {
+        "voca": "expensive",
+        "mean": "đắt tiền"
+    },
+    {
+        "voca": "afternoon",
+        "mean": "buổi chiều"
+    },
+    {
+        "voca": "menu",
+        "mean": "thực đơn"
+    },
+    {
+        "voca": "grow",
+        "mean": "gia tăng / phát triển"
+    },
+    {
+        "voca": "together",
+        "mean": "cùng / cùng nhau"
+    },
+    {
+        "voca": "coffee",
+        "mean": "cà phê"
+    },
+    {
+        "voca": "short",
+        "mean": "ngắn"
+    },
+    {
+        "voca": "branch",
+        "mean": "chi nhánh"
+    },
+    {
+        "voca": "real",
+        "mean": "thực sự"
+    },
+    {
+        "voca": "famous",
+        "mean": "nổi tiếng"
+    },
+    {
+        "voca": "daily",
+        "mean": "hàng ngày"
+    },
+    {
+        "voca": "weather",
+        "mean": "thời tiết"
+    },
+    {
+        "voca": "everyone",
+        "mean": "mọi người"
+    },
+    {
+        "voca": "advice",
+        "mean": "lời khuyên"
+    },
+    {
+        "voca": "friend",
+        "mean": "người bạn"
+    },
+    {
+        "voca": "friendly",
+        "mean": "thân thiện"
+    },
+    {
+        "voca": "big",
+        "mean": "lớn"
+    },
+    {
+        "voca": "never",
+        "mean": "không bao giờ"
+    },
+    {
+        "voca": "box",
+        "mean": "hộp"
+    },
+    {
+        "voca": "swimming pool",
+        "mean": "hồ bơi"
+    },
+    {
+        "voca": "outside",
+        "mean": "bên ngoài"
+    },
+    {
+        "voca": "salary",
+        "mean": "tiền lương"
+    },
+    {
+        "voca": "responsibility",
+        "mean": "trách nhiệm"
+    },
+    {
+        "voca": "fast",
+        "mean": "nhanh"
+    },
+    {
+        "voca": "anyone",
+        "mean": "bất kỳ ai"
+    },
+    {
+        "voca": "carefully",
+        "mean": "cẩn thận"
+    },
+    {
+        "voca": "style",
+        "mean": "phong cách"
+    },
+    {
+        "voca": "remind",
+        "mean": "nhắc nhở"
+    },
+    {
+        "voca": "ability",
+        "mean": "khả năng"
+    },
+    {
+        "voca": "adult",
+        "mean": "người lớn"
+    },
+    {
+        "voca": "cook",
+        "mean": "nấn ăn"
+    },
+    {
+        "voca": "save",
+        "mean": "tiết kiệm"
+    },
+    {
+        "voca": "a lot of",
+        "mean": "nhiều"
+    },
+    {
+        "voca": "clear",
+        "mean": "rõ ràng"
+    },
+    {
+        "voca": "game",
+        "mean": "trò chơi"
+    },
+    {
+        "voca": "graduate",
+        "mean": "tốt nghiệp"
+    },
+    {
+        "voca": "share",
+        "mean": "chia sẻ"
+    },
+    {
+        "voca": "walk",
+        "mean": "đi bộ"
+    },
+    {
+        "voca": "beautiful",
+        "mean": "đẹp"
+    },
+    {
+        "voca": "hold",
+        "mean": "giữ"
+    },
+    {
+        "voca": "yesterday",
+        "mean": "hôm qua"
+    },
+    {
+        "voca": "knowledge",
+        "mean": "kiến thức"
+    },
+    {
+        "voca": "table",
+        "mean": "cái bàn"
+    },
+    {
+        "voca": "picture",
+        "mean": "bức ảnh"
+    },
+    {
+        "voca": "holiday",
+        "mean": "kỳ nghỉ / lỳ lễ"
+    },
+    {
+        "voca": "culture",
+        "mean": "văn hóa"
+    },
+    {
+        "voca": "half",
+        "mean": "nửa"
+    },
+    {
+        "voca": "correct",
+        "mean": "đúng / chỉnh sửa"
+    },
+    {
+        "voca": "paint",
+        "mean": "sơn"
+    },
+    {
+        "voca": "usually",
+        "mean": "thường xuyên"
+    },
+    {
+        "voca": "last",
+        "mean": "cuối cùng"
+    },
+    {
+        "voca": "error",
+        "mean": "lỗi"
+    },
+    {
+        "voca": "comfortable",
+        "mean": "thoải mái"
+    },
+    {
+        "voca": "wedding",
+        "mean": "đám cưới"
+    },
+    {
+        "voca": "traveler",
+        "mean": "hành khách"
+    },
+    {
+        "voca": "printer",
+        "mean": "máy in"
+    },
+    {
+        "voca": "ready",
+        "mean": "sẵn sàng"
+    },
+    {
+        "voca": "everything",
+        "mean": "mọi thứ"
+    },
+    {
+        "voca": "clothing",
+        "mean": "quần áo"
+    },
+    {
+        "voca": "fashion",
+        "mean": "thời trang"
+    },
+    {
+        "voca": "topic",
+        "mean": "chủ đề"
+    },
+    {
+        "voca": "exercise",
+        "mean": "tập (thể dục)"
+    },
+    {
+        "voca": "sorry",
+        "mean": "xin lỗi / tiếc"
+    },
+    {
+        "voca": "eat",
+        "mean": "ăn"
+    },
+    {
+        "voca": "third",
+        "mean": "thứ ba / một phần ba"
+    },
+    {
+        "voca": "door",
+        "mean": "cửa"
+    },
+    {
+        "voca": "gym",
+        "mean": "phòng tập thể dục"
+    },
+    {
+        "voca": "wear",
+        "mean": "mặc / mang"
+    },
+    {
+        "voca": "young",
+        "mean": "trẻ"
+    },
+    {
+        "voca": "perfect",
+        "mean": "hoàn hảo"
+    },
+    {
+        "voca": "electricity",
+        "mean": "điện"
+    },
+    {
+        "voca": "evening",
+        "mean": "buổi tối"
+    },
+    {
+        "voca": "things",
+        "mean": "thứ / điều"
+    },
+    {
+        "voca": "men",
+        "mean": "đàn ông"
+    },
+    {
+        "voca": "stop",
+        "mean": "dừng / điểm dừng"
+    },
+    {
+        "voca": "breakfast",
+        "mean": "bữa sáng"
+    },
+    {
+        "voca": "reply",
+        "mean": "trả lời"
+    },
+    {
+        "voca": "cut",
+        "mean": "cắt / cắt giảm"
+    },
+    {
+        "voca": "step",
+        "mean": "bước"
+    },
+    {
+        "voca": "weekly",
+        "mean": "hàng tuần"
+    },
+    {
+        "voca": "suitable",
+        "mean": "phù hợp"
+    },
+    {
+        "voca": "search",
+        "mean": "tìm kiếm"
+    },
+    {
+        "voca": "play",
+        "mean": "chơi"
+    },
+    {
+        "voca": "right",
+        "mean": "đúng"
+    },
+    {
+        "voca": "dollar",
+        "mean": "đô la"
+    },
+    {
+        "voca": "opinion",
+        "mean": "ý kiến"
+    },
+    {
+        "voca": "seem",
+        "mean": "có vẻ như"
+    },
+    {
+        "voca": "cooperation",
+        "mean": "sự hợp tác"
+    },
+    {
+        "voca": "example",
+        "mean": "ví dụ"
+    },
+    {
+        "voca": "band",
+        "mean": "ban nhạc"
+    },
+    {
+        "voca": "resort",
+        "mean": "khu nghỉ mát"
+    },
+    {
+        "voca": "age",
+        "mean": "tuổi"
+    },
+    {
+        "voca": "on time",
+        "mean": "đúng giờ"
+    },
+    {
+        "voca": "little",
+        "mean": "ít"
+    },
+    {
+        "voca": "traffic",
+        "mean": "giao thông"
+    },
+    {
+        "voca": "key",
+        "mean": "chìa khóa / then chốt"
+    },
+    {
+        "voca": "prize",
+        "mean": "giải thưởng"
+    },
+    {
+        "voca": "woman",
+        "mean": "phụ nữ"
+    },
+    {
+        "voca": "mobile",
+        "mean": "di động"
+    },
+    {
+        "voca": "heavy",
+        "mean": "nặng / lớn"
+    },
+    {
+        "voca": "tomorrow",
+        "mean": "ngày mai"
+    },
+    {
+        "voca": "busy",
+        "mean": "bận rộn"
+    },
+    {
+        "voca": "bag",
+        "mean": "túi / túi xách"
+    },
+    {
+        "voca": "face",
+        "mean": "mặt / đối mặt"
+    },
+    {
+        "voca": "white",
+        "mean": "màu trắng"
+    },
+    {
+        "voca": "blue",
+        "mean": "xanh dương"
+    },
+    {
+        "voca": "advise",
+        "mean": "khuyên / thông báo"
+    },
+    {
+        "voca": "story",
+        "mean": "câu chuyện"
+    },
+    {
+        "voca": "useful",
+        "mean": "hữu ích"
+    },
+    {
+        "voca": "black",
+        "mean": "màu đen"
+    },
+    {
+        "voca": "river",
+        "mean": "con sông"
+    },
+    {
+        "voca": "depend",
+        "mean": "phụ thuộc"
+    },
+    {
+        "voca": "compare",
+        "mean": "so sánh"
+    },
+    {
+        "voca": "lake",
+        "mean": "hồ"
+    },
+    {
+        "voca": "wine",
+        "mean": "rượu vang"
+    },
+    {
+        "voca": "mistake",
+        "mean": "lỗi lầm / nhầm lẫn"
+    },
+    {
+        "voca": "farm",
+        "mean": "nông trại"
+    },
+    {
+        "voca": "mean",
+        "mean": "có nghĩa"
+    },
+    {
+        "voca": "hand",
+        "mean": "tay"
+    },
+    {
+        "voca": "brown",
+        "mean": "màu nâu"
+    },
+    {
+        "voca": "flower",
+        "mean": "hoa"
+    },
+    {
+        "voca": "image",
+        "mean": "hình ảnh"
+    },
+    {
+        "voca": "inside",
+        "mean": "bên trong"
+    },
+    {
+        "voca": "swimming",
+        "mean": "bơi"
+    },
+    {
+        "voca": "wash",
+        "mean": "giặt / rửa"
+    },
+    {
+        "voca": "hard",
+        "mean": "chăm chỉ"
+    },
+    {
+        "voca": "doctor",
+        "mean": "bác sĩ"
+    },
+    {
+        "voca": "discussion",
+        "mean": "buổi thảo luận"
+    },
+    {
+        "voca": "modern",
+        "mean": "hiện đại"
+    },
+    {
+        "voca": "action",
+        "mean": "hành động"
+    },
+    {
+        "voca": "mountain",
+        "mean": "ngọn núi"
+    },
+    {
+        "voca": "perform",
+        "mean": "biểu diễn"
+    },
+    {
+        "voca": "vegetables",
+        "mean": "rau"
+    },
+    {
+        "voca": "beside",
+        "mean": "bên cạnh"
+    },
+    {
+        "voca": "cake",
+        "mean": "bánh"
+    },
+    {
+        "voca": "fly",
+        "mean": "bay"
+    },
+    {
+        "voca": "winter",
+        "mean": "mùa đông"
+    },
+    {
+        "voca": "remember",
+        "mean": "nhớ"
+    },
+    {
+        "voca": "red",
+        "mean": "màu đỏ"
+    },
+    {
+        "voca": "behind",
+        "mean": "phía sau"
+    },
+    {
+        "voca": "boat",
+        "mean": "con thuyền"
+    },
+    {
+        "voca": "uniform",
+        "mean": "đồng phục"
+    },
+    {
+        "voca": "chair",
+        "mean": "ghế"
+    },
+    {
+        "voca": "automatic",
+        "mean": "tự động"
+    },
+    {
+        "voca": "congratulations",
+        "mean": "chúc mừng"
+    },
+    {
+        "voca": "watch",
+        "mean": "xem"
+    },
+    {
+        "voca": "way",
+        "mean": "đường"
+    },
+    {
+        "voca": "bed",
+        "mean": "cái giường"
+    },
+    {
+        "voca": "light",
+        "mean": "ánh sáng / đèn"
+    },
+    {
+        "voca": "foreign",
+        "mean": "nước ngoài"
+    },
+    {
+        "voca": "confident",
+        "mean": "tự tin"
+    },
+    {
+        "voca": "noon",
+        "mean": "trưa"
+    },
+    {
+        "voca": "password",
+        "mean": "mật khẩu"
+    },
+    {
+        "voca": "window",
+        "mean": "cửa sổ"
+    },
+    {
+        "voca": "United States",
+        "mean": "Mỹ"
+    },
+    {
+        "voca": "hot",
+        "mean": "nóng"
+    },
+    {
+        "voca": "fun",
+        "mean": "vui"
+    },
+    {
+        "voca": "teacher",
+        "mean": "giáo viên"
+    },
+    {
+        "voca": "himself",
+        "mean": "chính anh ấy / tự anh ấy"
+    },
+    {
+        "voca": "fan",
+        "mean": "người hâm mộ"
+    },
+    {
+        "voca": "beach",
+        "mean": "bãi biển"
+    },
+    {
+        "voca": "forget",
+        "mean": "quên"
+    },
+    {
+        "voca": "calendar",
+        "mean": "lịch"
+    },
+    {
+        "voca": "speed",
+        "mean": "tốc độ"
+    },
+    {
+        "voca": "study",
+        "mean": "học"
+    },
+    {
+        "voca": "cream",
+        "mean": "kem"
+    },
+    {
+        "voca": "body",
+        "mean": "cơ thể / thân"
+    },
+    {
+        "voca": "shoe",
+        "mean": "giày"
+    },
+    {
+        "voca": "fruit",
+        "mean": "trái cây"
+    },
+    {
+        "voca": "love",
+        "mean": "yêu thích / yêu thương"
+    },
+    {
+        "voca": "plane",
+        "mean": "máy bay"
+    },
+    {
+        "voca": "animal",
+        "mean": "động vật / con vật"
+    },
+    {
+        "voca": "parent",
+        "mean": "cha mẹ"
+    },
+    {
+        "voca": "cheap",
+        "mean": "rẻ"
+    },
+    {
+        "voca": "drop",
+        "mean": "giảm / rơi"
+    },
+    {
+        "voca": "trust",
+        "mean": "tin tưởng"
+    },
+    {
+        "voca": "wall",
+        "mean": "bức tường"
+    },
+    {
+        "voca": "green",
+        "mean": "xanh"
+    },
+    {
+        "voca": "back",
+        "mean": "phía sau"
+    },
+    {
+        "voca": "dry",
+        "mean": "khô"
+    },
+    {
+        "voca": "accident",
+        "mean": "tai nạn"
+    },
+    {
+        "voca": "sound",
+        "mean": "âm thanh"
+    },
+    {
+        "voca": "spring",
+        "mean": "mùa xuân"
+    },
+    {
+        "voca": "mind",
+        "mean": "tâm trí"
+    },
+    {
+        "voca": "tea",
+        "mean": "trà"
+    },
+    {
+        "voca": "truck",
+        "mean": "xe tải"
+    },
+    {
+        "voca": "far",
+        "mean": "xa"
+    },
+    {
+        "voca": "wish",
+        "mean": "chúc"
+    },
+    {
+        "voca": "island",
+        "mean": "hòn đảo"
+    },
+    {
+        "voca": "exit",
+        "mean": "lối ra"
+    },
+    {
+        "voca": "break",
+        "mean": "làm vỡ / phá vỡ"
+    },
+    {
+        "voca": "billion",
+        "mean": "một tỷ"
+    },
+    {
+        "voca": "stand",
+        "mean": "đứng"
+    },
+    {
+        "voca": "refrigerator",
+        "mean": "tủ lạnh"
+    },
+    {
+        "voca": "bike",
+        "mean": "xe đạp"
+    },
+    {
+        "voca": "fire",
+        "mean": "vụ cháy / chữa cháy"
+    },
+    {
+        "voca": "bedroom",
+        "mean": "phòng ngủ"
+    },
+    {
+        "voca": "fine",
+        "mean": "tốt"
+    },
+    {
+        "voca": "hello",
+        "mean": "chào"
+    },
+    {
+        "voca": "clothes",
+        "mean": "quần áo"
+    },
+    {
+        "voca": "hundred",
+        "mean": "một trăm"
+    },
+    {
+        "voca": "wrong",
+        "mean": "sai"
+    },
+    {
+        "voca": "Mrs.",
+        "mean": "bà"
+    },
+    {
+        "voca": "bad",
+        "mean": "xấu / tồi tệ"
+    },
+    {
+        "voca": "eye",
+        "mean": "mắt"
+    },
+    {
+        "voca": "cheese",
+        "mean": "phô mai"
+    },
+    {
+        "voca": "bicycle",
+        "mean": "xe đạp"
+    },
+    {
+        "voca": "star",
+        "mean": "ngôi sao"
+    },
+    {
+        "voca": "hard",
+        "mean": "khó"
+    },
+    {
+        "voca": "map",
+        "mean": "bản đồ"
+    },
+    {
+        "voca": "hair",
+        "mean": "tóc"
+    },
+    {
+        "voca": "cell phone",
+        "mean": "điện thoại di động"
+    },
+    {
+        "voca": "sea",
+        "mean": "biển"
+    },
+    {
+        "voca": "shirt",
+        "mean": "áo sơ mi"
+    },
+    {
+        "voca": "carry",
+        "mean": "mang / mang theo"
+    },
+    {
+        "voca": "twelve",
+        "mean": "mười hai"
+    },
+    {
+        "voca": "middle",
+        "mean": "giữa"
+    },
+    {
+        "voca": "sometimes",
+        "mean": "đôi khi"
+    },
+    {
+        "voca": "bathroom",
+        "mean": "phòng tắm"
+    },
+    {
+        "voca": "warm",
+        "mean": "ấm"
+    },
+    {
+        "voca": "nothing",
+        "mean": "không cái gì"
+    },
+    {
+        "voca": "lesson",
+        "mean": "bài học"
+    },
+    {
+        "voca": "actor",
+        "mean": "diễn viên"
+    },
+    {
+        "voca": "practice",
+        "mean": "luyện tập"
+    },
+    {
+        "voca": "rain",
+        "mean": "mưa"
+    },
+    {
+        "voca": "heart",
+        "mean": "trái tim"
+    },
+    {
+        "voca": "sit",
+        "mean": "ngồi"
+    },
+    {
+        "voca": "myself",
+        "mean": "chính tôi"
+    },
+    {
+        "voca": "miss",
+        "mean": "cô"
+    },
+    {
+        "voca": "thousand",
+        "mean": "một nghìn"
+    },
+    {
+        "voca": "too",
+        "mean": "cũng"
+    },
+    {
+        "voca": "rice",
+        "mean": "gạo"
+    },
+    {
+        "voca": "ourselves",
+        "mean": "chính chúng tôi"
+    },
+    {
+        "voca": "maximum",
+        "mean": "tối đa"
+    },
+    {
+        "voca": "kid",
+        "mean": "trẻ em"
+    },
+    {
+        "voca": "voice",
+        "mean": "giọng nói"
+    },
+    {
+        "voca": "quiet",
+        "mean": "yên tĩnh"
+    },
+    {
+        "voca": "apple",
+        "mean": "quả táo"
+    },
+    {
+        "voca": "turn off",
+        "mean": "tắt"
+    },
+    {
+        "voca": "alone",
+        "mean": "chỉ riêng / một mình"
+    },
+    {
+        "voca": "sun",
+        "mean": "mặt trời"
+    },
+    {
+        "voca": "listen",
+        "mean": "nghe"
+    },
+    {
+        "voca": "draw",
+        "mean": "vẽ"
+    },
+    {
+        "voca": "sick",
+        "mean": "bị bệnh"
+    },
+    {
+        "voca": "police",
+        "mean": "cảnh sát"
+    },
+    {
+        "voca": "anytime",
+        "mean": "bất kỳ lúc nào"
+    },
+    {
+        "voca": "zoo",
+        "mean": "sở thú"
+    },
+    {
+        "voca": "toy",
+        "mean": "đồ chơi"
+    },
+    {
+        "voca": "dream",
+        "mean": "ước mơ"
+    },
+    {
+        "voca": "T-shirt",
+        "mean": "áo thun"
+    },
+    {
+        "voca": "dish",
+        "mean": "đĩa"
+    },
+    {
+        "voca": "ship",
+        "mean": "thuyền"
+    },
+    {
+        "voca": "board",
+        "mean": "bảng"
+    },
+    {
+        "voca": "post office",
+        "mean": "bưu điện"
+    },
+    {
+        "voca": "kind",
+        "mean": "tử tế"
+    },
+    {
+        "voca": "let's",
+        "mean": "hãy"
+    },
+    {
+        "voca": "waste",
+        "mean": "lãng phí"
+    },
+    {
+        "voca": "tour guide",
+        "mean": "hướng dẫn viên du lịch"
+    },
+    {
+        "voca": "present",
+        "mean": "món quà"
+    },
+    {
+        "voca": "soft",
+        "mean": "mềm / nhẹ"
+    },
+    {
+        "voca": "press",
+        "mean": "ấn nút"
+    },
+    {
+        "voca": "miss",
+        "mean": "nhớ"
+    },
+    {
+        "voca": "right",
+        "mean": "bên phải"
+    },
+    {
+        "voca": "glass",
+        "mean": "cái ly"
+    }
+]
