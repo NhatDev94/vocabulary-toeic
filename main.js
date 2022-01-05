@@ -22,26 +22,27 @@
 // }
 
 let app = document.querySelector('.app')
+let btn = document.querySelector('button')
 let vocabulary = null
 let count = 0
+
+btn.addEventListener('click', async () => {
+    let b = {
+        data: vocabulary
+    }
+    const res = await fetch('https://61986846164fa60017c23067.mockapi.io/Toeic1/1', {
+        method: 'PUT',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(b)
+    })
+    window.location.href = 'https://nhatdev94.github.io/vocabulary-toeic/'
+})
 
 async function hideVoca(i) {
     count++
     vocabulary[i].checked = true
-    if (count === 10) {
-        let b = {
-            data: vocabulary
-        }
-        count = 0
-        const res = await fetch('https://61986846164fa60017c23067.mockapi.io/Toeic1/1', {
-            method: 'PUT',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(b)
-        })
-        run()
-    }
 }
 
 async function run() {
